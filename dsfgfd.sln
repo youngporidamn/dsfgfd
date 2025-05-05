@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tt4-final-exam-2160_2025050108001200-main", "tt4-final-exam-2160_2025050108001200-main", "{E00CB248-C97C-A7A0-4332-36B57B931343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backend", "tt4-final-exam-2160_2025050108001200-main\backend\backend.csproj", "{3B4A9A82-B43F-45A2-43D2-8FEE7479D9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4A9A82-B43F-45A2-43D2-8FEE7479D9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4A9A82-B43F-45A2-43D2-8FEE7479D9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4A9A82-B43F-45A2-43D2-8FEE7479D9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4A9A82-B43F-45A2-43D2-8FEE7479D9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B4A9A82-B43F-45A2-43D2-8FEE7479D9D7} = {E00CB248-C97C-A7A0-4332-36B57B931343}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3270B897-C921-49B0-8625-E0F5CEE0F88D}
+	EndGlobalSection
+EndGlobal
